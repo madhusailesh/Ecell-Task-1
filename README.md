@@ -6,7 +6,7 @@
 
 **Turn your ideas into a stunning portfolio website and stand out from the crowd!**
 
-📅 **Deadline:** 20 June 2026
+📅 **Deadline:** 25 June 2026
 
 </div>
 
@@ -127,7 +127,7 @@ Create a Pull Request (PR).
 
 ## 📅 Submission Deadline
 
-### 🗓️ 20 June 2026
+### 🗓️ 25 June 2026
 
 ### ⏰ 11:59 PM IST
 
